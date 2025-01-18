@@ -2,6 +2,10 @@
 
 > This is a **Sanity Studio v3** plugin.
 
+Add some whimsy to your day
+
+![nyanNavBar](./assets/nyanNavBar.gif)
+
 ## Installation
 
 ```sh
@@ -14,11 +18,11 @@ Add it as a plugin in `sanity.config.ts` (or .js):
 
 ```ts
 import { defineConfig } from "sanity"
-import { myPlugin } from "sanity-plugin-nyan-banner"
+import { nyanBannerPlugin } from "sanity-plugin-nyan-banner"
 
 export default defineConfig({
   //...
-  plugins: [myPlugin({})],
+  plugins: [..., nyanBannerPlugin()],
 })
 ```
 

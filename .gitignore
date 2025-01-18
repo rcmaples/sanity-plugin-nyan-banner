@@ -42,12 +42,14 @@ jspm_packages
 # VS Code settings
 .vscode
 
-# Cursor
-.specstory
-
 # IntelliJ
 .idea
 *.iml
+
+# Cursor
+.specstory
+
+.env*
 
 # Cache
 .cache

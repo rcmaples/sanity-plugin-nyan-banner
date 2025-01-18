@@ -1,12 +1,12 @@
 import { definePlugin } from "sanity"
 
-import NyanBanner from "./components/NyanBanner"
+import NyanNavbar from "./components/NyanNavbar"
 
 export const nyanBannerPlugin = definePlugin({
   name: "sanity-plugin-nyan-banner",
   studio: {
     components: {
-      navbar: NyanBanner,
+      navbar: NyanNavbar,
     },
   },
 })
