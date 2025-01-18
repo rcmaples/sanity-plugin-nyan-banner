@@ -1,0 +1,1 @@
+export {nyanBannerPlugin} from './plugin'
