@@ -4,7 +4,7 @@
 
 Add some whimsy to your day
 
-![nyanNavBar](./assets/nyanNavBar.gif)
+![nyanNavBar](https://raw.githubusercontent.com/rcmaples/sanity-plugin-nyan-banner/refs/heads/main/assets/nyanNavBar.gif)
 
 ## Installation
 
