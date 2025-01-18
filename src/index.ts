@@ -1,1 +1,1 @@
-export {nyanBannerPlugin} from './plugin'
+export { nyanBannerPlugin } from "./plugin"

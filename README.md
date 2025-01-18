@@ -13,8 +13,8 @@ npm install sanity-plugin-nyan-banner
 Add it as a plugin in `sanity.config.ts` (or .js):
 
 ```ts
-import {defineConfig} from 'sanity'
-import {myPlugin} from 'sanity-plugin-nyan-banner'
+import { defineConfig } from "sanity"
+import { myPlugin } from "sanity-plugin-nyan-banner"
 
 export default defineConfig({
   //...
