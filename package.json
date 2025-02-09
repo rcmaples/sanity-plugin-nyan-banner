@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-nyan-banner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A whimsical Nyan Cat to brighten your day",
   "keywords": [
     "sanity",
@@ -47,12 +47,12 @@
     "@sanity/incompatible-plugin": "^1.0.5",
     "@sanity/plugin-kit": "^4.0.19",
     "@sanity/ui": "^2.11.2",
-    "react-dom": "^18.3.1",
+    "react-dom": "^19.0.0",
     "styled-components": "^6.1.14"
   },
   "devDependencies": {
     "@sanity/pkg-utils": "^6.13.4",
-    "@types/react": "^18.3.18",
+    "@types/react": "^19.0.0",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
     "eslint": "^8.57.1",
@@ -66,7 +66,7 @@
     "typescript": "^5.5.4"
   },
   "peerDependencies": {
-    "react": "^18.3.1",
+    "react": "^19.0.0",
     "sanity": "^3"
   },
   "engines": {
